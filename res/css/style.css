@@ -1,0 +1,10 @@
+#content {
+    width: 100px;
+    height: 100px;
+    background-color:aqua;
+    border: 2px solid black;
+    position: absolute;
+    left: 100px;
+    top:50px;
+transition: 5s;
+}
